@@ -36,9 +36,9 @@
 |                                  |        |        |
 | 总经费                           |        | 205000 |
 
-![团队预算_项目金额分析](Pictures\CostBudget\teambudget-project.png)
+<img src="Pictures\CostBudget\teambudget-project.png" alt="团队预算_项目金额分析"  />
 
-![团队预算_类别金额分析](Pictures\CostBudget\teambudget-type.png)
+<img src="Pictures\CostBudget\teambudget-type.png" alt="团队预算_类别金额分析"  />
 
  [厦门大学 RoboMaster 团队预算表.xlsx](Files\成本预算\厦门大学 RoboMaster 团队预算表.xlsx) 
 
