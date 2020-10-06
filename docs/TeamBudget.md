@@ -36,7 +36,7 @@
 |                                  |        |        |
 | 总经费                           |        | 205000 |
 
-<img src="Pictures\CostBudget\teambudget-project.png"/>
+<img src="Pictures\CostBudget\teambudget-project.png" style="zoom:25%;" />
 
 <img src="Pictures\CostBudget\teambudget-type.png"/>
 
