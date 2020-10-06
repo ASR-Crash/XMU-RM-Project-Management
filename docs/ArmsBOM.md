@@ -215,4 +215,4 @@
 ----
 
 
-###### [厦门大学 RoboMaster 兵种BOM表.xlsx](Files\成本预算\厦门大学 RoboMaster 兵种BOM表.xlsx) 
+###### [厦门大学 RoboMaster 兵种BOM表.xlsx](厦门大学 RoboMaster 兵种BOM表.xlsx) 
