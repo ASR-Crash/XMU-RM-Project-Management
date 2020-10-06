@@ -1,5 +1,5 @@
-site_name: 厦门大学·RoboMaster·项目管理<img src='logo/XMU.png'>
-
+site_name: 厦门大学·RoboMaster·项目管理<img src='logo/logo2.png'>
+site_favicon: favicon.ico
 nav:
 - 战队信息库:
     - 团队架构: TeamStructure.md
