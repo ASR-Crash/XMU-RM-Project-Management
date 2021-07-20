@@ -1,35 +1,6 @@
-# 成果信息库
+## 成果信息库
 
-### 技术讲座：
-
-<table>
-    <tr>
-    <td><center><a href="http://www.rcstech.org/"><img src="雷达全场定位.png"></a>
-    <td><center><a href="http://www.rcstech.org/motor-knowledge"><img src="电机基本知识（一）.png"></a>
-    </tr>  
-    <tr>
-    <td><center><a href="http:///www.rcstech.org/super-capacitor"><img src="超级电容同步BUCK电路参数的计算.png"></a>
-    <td><center><a href="http://www.rcstech.org/"><img src="可解释的CNN网络.jpg"></a>
-    </tr>
-    <tr>
-    <td><a href="http://www.rcstech.org/"><img src="步兵上的姿态控制.png" width="500"></a>
-    <td><a href="http://www.rcstech.org/"><img src="硬件标准化与系统设计.png" width="500"></a>
-    </tr>
-    <tr>
-    <td><a href="http://www.rcstech.org/"><img src="有限元分析基础.png"></a>
-    <td><a href="http://www.rcstech.org/"><img src="人机工程分析.png"></a>
-    </tr>
-    <tr>
-    <td><a href="http://www.rcstech.org/"><img src="OpenCV识别能量机关.png"></a>
-    <td><a href="http://www.rcstech.org/"><img src="uC_OSIII多任务系统介绍.png"></a>
-    </tr>  
-</table>
-
-[RM2020技术讲座资料站](http://www.rcstech.org)
-
----
-
-### 专利类：
+#### 专利类
 
 | 序号 | 名称                                               | 专利号               | 公告时间   | 权利所有人                                                   |
 | ---- | -------------------------------------------------- | -------------------- | ---------- | ------------------------------------------------------------ |
@@ -47,5 +18,5 @@
 
 ----
 
-
+#### 大创类
 
