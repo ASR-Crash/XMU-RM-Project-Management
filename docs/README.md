@@ -29,10 +29,10 @@
 - [会议记录](MeetingMinutes.md)
 - [团队建设](TeamBuilding.md)
 - [团队文化](TeamCulture.md)
-- [其他内容](OtherContent.md)
+- [团队规范](TeamNorms.md)
 
 ----
-###### 更新时间：2021.07.20
+###### 更新时间：2021.08.20
 ----
 
 <img src="logo\logo3.png" style="zoom: 25%;" />

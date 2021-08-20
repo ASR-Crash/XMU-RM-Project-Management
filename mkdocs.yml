@@ -20,7 +20,7 @@ nav:
     - 会议记录: MeetingMinutes.md
     - 团队建设: TeamBuilding.md
     - 团队文化: TeamCulture.md
-    - 其他内容: OtherContent.md
+    - 团队规范: TeamNorms.md
     
 theme: readthedocs
 site_author: ASR-Crash
