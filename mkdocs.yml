@@ -1,7 +1,8 @@
-site_name: 厦门大学·RoboMaster·项目管理<img src='https://cdn.img.wenhairu.com/images/2020/10/11/CksbD.png'>
+site_name: 厦门大学·RoboMaster·项目管理
+site_url: https://xmu-rm-project-management.readthedocs.io/en/master/
 site_favicon: favicon.ico
 nav:
-- 战队信息库:
+- 团队信息:
     - 团队架构: TeamStructure.md
     - 团队章程: TeamCharter.md
     - 队员信息库: https://docs.qq.com/sheet/DR0VuR0xLRVppU2VT
