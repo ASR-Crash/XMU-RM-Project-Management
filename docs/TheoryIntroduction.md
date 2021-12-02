@@ -4,7 +4,7 @@
 
 #### [循环管理](TheoryIntroduction/PMloops.md)
 
-[中台规划]
+[中台规划](TheoryIntroduction/Middle-Stage.md)
 
 PDCA循环
 
