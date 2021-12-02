@@ -10,11 +10,9 @@
 ### 团队名称
 
 		RCS
-
-
-		R:Robot（机器人）
-		C:Creative（创新）Contributions（奉献）Cooperation（合作）
-		S:Science（科学） Stick（坚持）
+>		R:Robot（机器人）
+>		C:Creative（创新）Contributions（奉献）Cooperation（合作）
+>		S:Science（科学） Stick（坚持）
 
 ### 团队理念
 
@@ -385,6 +383,8 @@
 ## 第四章 附录
 
 	1、团队章程自发布时刻起生效，原章程即刻失效
+	
 	2、团队章程由管理层制定并维护，修订需要经过管理层会议同意并通过
+	
 	3、团队章程最终解释权归管理层所有
 
