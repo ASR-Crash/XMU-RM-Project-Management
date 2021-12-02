@@ -4,6 +4,12 @@
 
 <img src="PMloops\project-R&D.png" alt="R&D"  />
 
+![R&D (小)](PMloops\R&D (小).png)
+
+![R&D](PMloops\R&D.jpg)
+
+![R&D (小)](PMloops\R&D (小).jpg)
+
 ---
 
 #### 产品状态循环
