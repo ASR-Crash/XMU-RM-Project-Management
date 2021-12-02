@@ -2,10 +2,13 @@
 
 #### [项目管理工具](TheoryIntroduction/PMtools.md)
 
-#### 研发流程理论
+#### [循环管理](TheoryIntroduction/PMloops.md)
+
+[中台规划]
 
 PDCA循环
 
 NPI新产品导入
 
-中台
+SOP标准作业程序
+
