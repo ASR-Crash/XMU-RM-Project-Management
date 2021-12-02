@@ -2,9 +2,9 @@
 
 #### 项目研发循环
 
-<img src="PMloops\project-R&D.png" alt="R&D"  />
+![project-R&D](PMloops/project-R&D.png)
 
-![R&D (小)](PMloops\R&D (小).png)
+![R&D (小)](PMloops/R&D (小).png)
 
 ![R&D](PMloops/R&D.jpg)
 
