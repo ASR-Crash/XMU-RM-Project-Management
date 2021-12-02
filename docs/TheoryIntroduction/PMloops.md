@@ -2,11 +2,11 @@
 
 #### 项目研发循环
 
-![项目研发循环](PMloops\project-R&D.png)
+<img src="PMloops\project-R&D.png" alt="R&D" style="zoom:50%;" />
 
 ---
 
 #### 产品状态循环
 
-![产品状态循环](PMloops\product-state.png)
+<img src="PMloops\product-state.png" alt="state" style="zoom:50%;" />
 
